@@ -55,7 +55,7 @@ This commands includes
 
 6.hostname
 
-
+<img width="812" height="50" alt="Screenshot 2025-11-15 093237" src="https://github.com/user-attachments/assets/8fc51866-c7ab-4ef6-b95f-c96958af6e16" />
 
 
 
